@@ -4,7 +4,10 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriyfirs/) 
-[![Upwork](https://img.shields.io/badge/Upwork-white?logo=upwork)](https://www.upwork.com/freelancers/~0173aac23fd13f873e) 
+[![Upwork](https://img.shields.io/badge/Upwork-white?logo=upwork)](https://www.upwork.com/freelancers/~0173aac23fd13f873e)
+[![Fiverr](https://img.shields.io/badge/Fiverr-black?logo=fiverr)](https://www.fiverr.com/yuriifirs)
+
+
 
 
 
